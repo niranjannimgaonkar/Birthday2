@@ -1,6 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 
 
 
@@ -410,4 +418,56 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+#footer1-2 P {
+  color: #553982;
+  text-align: center;
+  font-size: 46px;
+  font-family: 'Arimo', sans-serif;
+}
+#header1-9 .mbr-section-title {
+  color: #fac51c;
+  text-align: right;
+  font-size: 60px;
+}
+#header1-9 .mbr-section-lead {
+  color: #030303;
+}
+#header2-b .mbr-section-text {
+  color: #553982;
+  text-align: left;
+}
+#header2-b .mbr-section-text I {
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+#slider3-d SPAN {
+  font-size: 60px;
+  font-family: 'Lora', serif;
+  color: #2b0680;
+}
+#slider3-d H2 {
+  text-align: center;
+}
+#slider3-d B {
+  color: #fac51c;
+  font-size: 60px;
+}
+#gallery3-e .mbr-gallery-item > div > span {
+  color: #2b0680;
+  font-size: 19px;
+}
+#gallery3-f .mbr-gallery-item > div > span {
+  color: #fac51c;
+  font-size: 19px;
+}
+#gallery3-g .mbr-gallery-item > div > span {
+  color: #f7da64;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+#header2-j .mbr-section-title {
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  color: #2b0680;
 }
